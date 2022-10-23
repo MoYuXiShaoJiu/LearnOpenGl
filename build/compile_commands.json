@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/moyuxishaojiu/opengl/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/MyGL.dir/test.cpp.o -c /home/moyuxishaojiu/opengl/test.cpp",
+  "file": "/home/moyuxishaojiu/opengl/test.cpp"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MyGL.dir/glad.c.o CMakeFiles/MyGL.dir/head.cpp.o CMakeFiles/MyGL.dir/main.cpp.o CMakeFiles/MyGL.dir/section2.cpp.o -o MyGL  /usr/local/lib64/libglfw3.a /usr/lib64/librt.a -lm -ldl /usr/lib64/libX11.so 

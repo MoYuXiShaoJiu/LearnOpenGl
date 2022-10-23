@@ -1,0 +1,3 @@
+/home/moyuxishaojiu/moyuxishaojiu/opengl/CMakeFiles/MyGL.dir
+/home/moyuxishaojiu/moyuxishaojiu/opengl/CMakeFiles/edit_cache.dir
+/home/moyuxishaojiu/moyuxishaojiu/opengl/CMakeFiles/rebuild_cache.dir
